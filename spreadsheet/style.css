@@ -3,5 +3,5 @@
 .goog-menu.goog-menu-vertical.goog-menu-noaccel.apps-menu-hide-mnemonics {
     /* シート一覧 */
     height: unset !important;
-    max-height: 80svh !important;
+    max-height: 80vh !important;
 }
