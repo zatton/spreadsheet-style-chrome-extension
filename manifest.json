@@ -1,7 +1,7 @@
 {
   "name": "spreadsheet-style",
   "author": "zatton",
-  "description": "chrome extension for longer Spreadsheets' sheet list view.",
+  "description": "chrome extension for longer Spreadsheets' sheet list view when having many sheets.",
   "version": "1.0.1",
   "manifest_version": 3,
   "permissions": [],
